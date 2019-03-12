@@ -2,6 +2,8 @@
 ### Year 1 Term 2, Msc. Data Science at Birkbeck, University of London, 01/2019
 
 ### Course format
+* 3 hours of in-person course per week
+* Scoring: written examination 90% + coursework 10%. 
 
 ### Feedback
 
