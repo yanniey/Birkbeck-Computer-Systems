@@ -5,7 +5,12 @@
 * 3 hours of in-person course per week
 * Scoring: written examination 90% + coursework 10%. 
 
-### Feedback
+### Helpful resources
+
+* [CrashCourse Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo), a fantastic serie on history of programming, episode 1 - 10 are especially useful for this course as they talk about ALU, RAM and cache, CPU and assembly lanauages
+
+* [Useful youtube video series on Virtual Memory](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
+
 
 ### Overview: 
 1. Processors 
@@ -40,6 +45,4 @@ A good introduction to multi-, super- and hyperthreading.
 
 * Week 11. Input/Output . A note on Hamming code and a wikipedia article.
 
-* Week 12. File systems . 
-
-* Revision lecture. Main points of the module.
+* Week 12. File systems. 
